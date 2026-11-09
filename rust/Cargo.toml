@@ -1,0 +1,10 @@
+[package]
+name = "real_open_ai"
+version = "0.1.0"
+edition = "2024"
+authors = ["jongwhan lee <leejw51@gmail.com>"]
+description = "REAL OPEN AI"
+license = "MIT"
+readme = "../README.md"
+
+[dependencies]
